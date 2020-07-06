@@ -1,4 +1,16 @@
-### Hi there 👋
+# HIKKO624
+
+
+
+-  🔭 Web Developer(Ruby on Rails, PHP)
+
+- 🌱 Competitions Programming and RubyGem
+
+- 😍 Music Game and Unity(C#)
+
+## SNS
+
+Tw
 
 <!--
 **hikko624/hikko624** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
