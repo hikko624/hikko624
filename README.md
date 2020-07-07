@@ -1,6 +1,6 @@
 # HIKKO624
 
-
+## Introduction
 
 -  🔭 Web Developer(Ruby on Rails, PHP)
 
@@ -8,9 +8,9 @@
 
 - 😍 Music Game and Unity(C#)
 
-## SNS
+## Contributing
 
-Tw
+Twitter[@HIKKO624](http://twitter.com/hikko624)
 
 <!--
 **hikko624/hikko624** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
