@@ -6,7 +6,7 @@
 
 - 🌱 Competitions Programming and RubyGem
 
-- 😍 Music Game and Unity(C#)
+- 😍 Music Game and Unity(C#), Emacs
 
 ## Contributing
 
