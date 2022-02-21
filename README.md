@@ -11,6 +11,10 @@
 
 - 😍 Music Game and Unity(C#), Emacs
 
+## DevCard
+
+<a href="https://app.daily.dev/hikko624"><img src="https://api.daily.dev/devcards/c84501ef14c341b99547dc4b04a1770b.png?r=euz" width="400" alt="hikko's Dev Card"/></a>
+
 ## Contributing
 
 Twitter[@HIKKO624](http://twitter.com/hikko624)
