@@ -5,11 +5,11 @@
 
 ## Introduction
 
--  🔭 Web Developer(Ruby on Rails, PHP)
+-  🔭 Web Developer(Ruby on Rails, PHP, Go)
 
 - 🌱 Competitions Programming and RubyGem
 
-- 😍 Music Game and Unity(C#), Emacs
+- 😍 Music Game and Unity(C#), Emacs, TCG
 
 ## DevCard
 
